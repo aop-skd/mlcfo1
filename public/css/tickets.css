@@ -1,0 +1,49 @@
+#Cashflowestimated {
+    width: 1000px;
+    margin: auto;
+}
+
+.CashFlowTi {
+    width: 600px;
+    margin: auto;
+}
+
+
+#cards{
+    width: 1000px;
+    display: flex;
+    margin: Auto;
+    justify-content: space-evenly;
+}
+
+.cardEllement{
+    width:400px;
+}
+
+.ticketform {
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right:50px;
+}
+
+.OutgoIncome{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.form-status{
+    padding-right:28px;
+}
+
+.form-group2 {
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right:50px;
+}
+
+.button-save{
+    margin-top:20px;
+}
